@@ -7,7 +7,7 @@ Flashlight app without the exaggerated ui. not even a lol.
 
 Touch on any area while you are in the app will turn on the Flashlight, Very simple.
 
-##Q&A:
+## Q&A:
 
 Q: Can I try it?
 
